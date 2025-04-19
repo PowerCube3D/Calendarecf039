@@ -5,4 +5,12 @@
     <string name="sort_by_name">Sort by Name</string>
     <string name="sort_by_category">Sort by Category</string>
     <string name="details">Details</string>
+
+
+    <string name="label_date">Date: %1$d/%2$d</string>
+    <string name="label_category">Category: %1$s</string>
+    <string name="label_name">Event: %1$s</string>
+    <string name="label_location">Location: %1$s</string>
+    <string name="label_admission">Admission: %1$s</string>
+
 </resources>
